@@ -3,8 +3,8 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
-title = "COBA AGC DI SINI"
+theme = "tamba kesel"
+title = "TEST AGC STUPID BOT VIA FORESTRY IO"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
